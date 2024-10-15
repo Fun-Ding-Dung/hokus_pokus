@@ -1,1 +1,1 @@
-Tohle je 2. repozotář
+Tohle je 2. repozitář
